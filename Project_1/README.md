@@ -2,7 +2,7 @@
 
 ## Overview: This Power BI project provides an in-depth analysis of Electric Vehicle (EV) data from Washington State. The dataset includes detailed information on vehicle registrations, eligibility for clean alternative fuel programs, electric range, pricing, and other key market trends. 
 
-![Dashboard Screenshot](Project_1/Images/(EV in WA-US) Sustainable Miles.png)
+![Dashboard Screenshot](Images/(EV in WA-US) Sustainable Miles.png)
 
 ## Technologies Used:
 - Power BI
